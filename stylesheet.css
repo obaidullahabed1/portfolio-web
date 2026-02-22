@@ -1,0 +1,15 @@
+h2 { color: darkblue; }
+
+.section {
+border: 1px solid gray;
+padding: 20px;
+margin: 20px;
+background-color: #f4f4f4;
+}
+
+#main-title {
+text-align: center;
+color: darkgreen;
+}
+
+a:hover { color: red; }
